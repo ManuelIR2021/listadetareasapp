@@ -18,7 +18,7 @@ body {
 
 .wrapper {
     padding: 25px 30px;
-    background: #FFF;
+    background: rgb(206, 121, 121);
     box-shadow: 0 2px 5px rgba(0,0,0,.3);
     width: 400px;
     border-radius: 3px;
